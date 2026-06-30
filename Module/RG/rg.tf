@@ -15,3 +15,4 @@ resource "azurerm_resource_group" "rg2" {
   location = each.value.location
 }
 ddddd
+fffffff
