@@ -14,3 +14,4 @@ resource "azurerm_resource_group" "rg2" {
   name     = each.value.name
   location = each.value.location
 }
+ddddd
